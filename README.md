@@ -1,7 +1,7 @@
 # my-oss
 OSS I've created.
 
-## modules
+## Modules
 - [buy me a crypto](https://github.com/aiinkiestism/buy-me-a-crypto)
 
 ## Boilerplates
@@ -9,7 +9,7 @@ OSS I've created.
 - [nuxt-hardhat-ethers-boilerplate](https://github.com/aiinkiestism/nuxt-hardhat-ethers-boilerplate)
 
 ## My Branding Website
-- [my site](https://github.com/aiinkiestism/hashmimic)
+- [my site](https://github.com/aiinkiestism/hashmimic)<br />
 currently private. v2 is going to be released soon.
 
 ## Pancake Bot
